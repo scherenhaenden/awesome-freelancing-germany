@@ -24,6 +24,7 @@ Bitte schicke Änderungsvorschläge ausschließlich per [Pull Request](https://h
 - [Clockify](https://clockify.me/) – kostenlose Zeiterfassung mit unbegrenzten Nutzern und Projekten.
 - [Timely](https://timelyapp.com/) – automatische Zeiterfassung mithilfe von KI.
 - [Timeular](https://timeular.com/) – Kombination aus physischem Tracker (Würfel) und Software.
+- [Zundertrack](https://zundertrack.de) – Kostenlose Zeiterfassung, Lexware Office Integration
 
 #### Wichtige Aspekte
 - **Zeiterfassung für Abrechnungszwecke**  
@@ -36,7 +37,7 @@ Bitte schicke Änderungsvorschläge ausschließlich per [Pull Request](https://h
 
 - [FastBill](https://www.fastbill.com/) – mit integrierter Buchhaltung und Banking.
 - [sevDesk](https://sevdesk.de/) – deutsche Software für Buchhaltung und Rechnungsstellung.
-- [Lexoffice](https://www.lexoffice.de/) – Cloud-basierte Lösung mit Steuerberater-Zugriff.
+- [Lexware Office](https://office.lexware.de) – Cloud-basierte Lösung mit Steuerberater-Zugriff.
 - [Debitoor](https://debitoor.de/) – einfache Rechnungssoftware mit Einnahmen-Überschuss-Rechnung.
 - [Billomat](https://www.billomat.com/) – Rechnungen, Angebote, Zeiterfassung und Kundenverwaltung.
 - [Collmex](https://www.collmex.de/) – Buchhaltungs- und ERP-Lösung mit Fokus auf den deutschen Markt.

@@ -61,8 +61,17 @@ Bitte schicke Änderungsvorschläge ausschließlich per [Pull Request](https://h
 - [Notion](https://www.notion.so/) – All-in-One-Lösung (Datenbank, Wiki, Kanban-Board, u. a.).
 - [Freedcamp](https://freedcamp.com/) – kostenlose Basisversion, Aufgabenverwaltung, Diskussionen, Kanban-Board.
 - [Wrike](https://www.wrike.com/) – Projektmanagement-Plattform mit Team-Kollaboration und Automatisierungen.
+- [ClickUp](https://clickup.com/) – All-in-One-Tool für Projektmanagement, Dokumentation und Kommunikation.
+- **[Wekan](https://github.com/wekan/wekan)** – Einfache, leichtgewichtige und selbst gehostete Kanban-Alternative. Perfekt für kleinere bis mittlere Projekte.
+- **[Planka](https://github.com/plankanban/planka)** – Moderne, minimalistische Kanban-Lösung, ideal für Teams, die eine flexible und intuitive Oberfläche suchen.
+- **[Vikunja](https://github.com/go-vikunja/frontend)** – Task-Management-Tool mit Kanban-Ansicht und umfassender Unterstützung für Selbst-Hosting. (read only)
+- **[SeaTable](https://github.com/seatable/seatable)** – Flexibles Projektmanagement-Tool mit Datenbank- und Kanban-Funktionen.
+- **[Nextcloud Deck](https://apps.nextcloud.com/apps/deck)** – Kanban-Boards speziell für Nextcloud-Nutzer, ideal für nahtlose Integration in bestehende Workflows.
 
 #### Wichtige Aspekte
+- **Selbst gehostete Alternativen für Datenschutz und DSGVO**  
+- **Integration in bestehende Systeme (z. B. Nextcloud)**  
+- **Skalierbarkeit für verschiedene Projektgrößen**  
 - **Tool-Auswahl nach Projektgröße**  
 - **Agile vs. Wasserfall**  
 - **Kommunikation & Dokumentation**  
